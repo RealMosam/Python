@@ -1,5 +1,5 @@
 # Python
 
-Basic Python Projects and Source Codes for Different Algorithms Implementaion.
+Basic Python Source Codes.
 Learn and Share!
 I recommend using PyCharm IDE for beginners.
